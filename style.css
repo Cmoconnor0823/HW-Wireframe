@@ -1,0 +1,83 @@
+.container {
+    background-color: #777;
+    width: 960px;
+    font-size: 18px;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    padding: 20px;
+    margin: 20px;
+    
+
+}
+
+
+#darkGray {
+    color: #ebebeb;
+    background-color: #777;
+    width: 80%;
+    font-size: 18px;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    padding: 20px;
+    margin: 20px;
+}
+
+.wideBar {
+    background-color: #ebebeb;
+    font-size: 18px;
+    padding: 10px;
+    text-align: center;
+    color: #777;
+    width: 96%;
+    margin: 10px;
+}
+
+#section {
+    position: relative;
+    float: left;
+    text-align: center;
+    background: #ebebeb;
+    color: #777;
+    width: 44%;
+    font-size: 18px;
+    padding: 20px;
+    margin: 10px;
+}
+
+/* */
+.shortBar {
+    background-color: #ebebeb;
+    font-size: 18px;
+    padding: 10px;
+    text-align: center;
+    color: #777;
+    width: 90%;
+    margin: 10px;
+}
+
+/*height can it be a percentage??*/
+
+#aside {
+    text-align: center;
+    background: #ebebeb;
+    color: #777;
+    width: 44%;
+    font-size: 18px;
+    padding: 10px;
+    margin: 10px;
+    float: right;
+    height: 362px;
+}
+
+footer {
+    background-color: #ebebeb;
+    font-size: 18px;
+    padding: 10px;
+    text-align: center;
+    color: #777;
+    width: auto;
+    margin: 10px;
+    clear: both;
+}
+
+
+
+
